@@ -28,6 +28,6 @@ Temporary Items
 
 # Grunt
 
-node_modules
+node_modules/
 .npm-debug.log
-tmp
+tmp/
